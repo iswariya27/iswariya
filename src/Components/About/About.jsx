@@ -68,7 +68,7 @@ export const About = () => {
             <LinkedInIcon />
           </a>
           <a
-            href="https://www.instagram.com/ishu_unique?igsh=YWZ4djl4ODd0dWli"
+            href="https://www.instagram.com/_ishu_unique_?igsh=YWZ4djl4ODd0dWli"
             aria-label="Instagram"
             className="link link--icon"
             target="_blank"
